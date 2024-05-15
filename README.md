@@ -4,8 +4,6 @@
 * Understand HTML Structure
 * Learn Common Tags
 * Semantic HTML
-* Forms
-* Tables
 
 ### 2. Intermediate Concepts
 * HTML5 Features
